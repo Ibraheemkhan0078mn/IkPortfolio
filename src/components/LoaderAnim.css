@@ -1,0 +1,18 @@
+
+
+
+#loader {
+    animation: rotate 1s linear infinite;
+    /* Rotate every 1 second, infinitely */
+}
+
+
+@keyframes rotate {
+    0% {
+        rotate: 0deg;
+    }
+
+    100% {
+        rotate: 360deg;
+    }
+}
