@@ -4,6 +4,7 @@ import HomeHeroCard from '../components/HomeHeroCard'
 import Aboutme from '../components/Aboutme'
 import Contact from '../components/Contact'
 import Loader from '../components/Loader'
+import Projects from '../components/Projects'
 
 const Home = () => {
     return (
@@ -23,6 +24,12 @@ const Home = () => {
 
             {/* About section of my portfolio */}
             <Aboutme />
+
+
+
+            {/* Contain the project */}
+            <Projects/>
+
 
 
 
