@@ -174,10 +174,10 @@ const Contact = () => {
         setLoaderDisplay("on")
 
         emailjs.sendForm(
-            "service_n1kzpzn",      // service id of email.js
-            "template_m1269gf",     // template id of email.js
-            form.current,           // The data of form which are send to email. i know that it is in html form but in documentation they teach me like that and it works
-            "g37AKSNdA3Gf9XH1y"     // public id of email.js
+            "service_jhkkuw6",      // service id of email.js
+            "template_n1k7vbf",     // template id of email.js
+            form.current,           // The data of form which are send to email. i know that it is in object form but in documentation they teach me like that and it works
+            "qxOiAZ1vWw4OxH5wF"     // public id of email.js
         )
             .then((result) => {
                 setLoaderDisplay(null)
