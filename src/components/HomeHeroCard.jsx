@@ -49,7 +49,7 @@ const HomeHeroCard = () => {
 
                 <h2 className='text-2xl font-semibold ml-1'>Hi, I'm</h2>
                 <h1 className='text-6xl font-bold bg-gradient-to-r from-blue-600 to-pink-400 bg-clip-text text-transparent     '>M.Ibraheem</h1>
-                <h2 className='text-2xl font-semibold mt-10 ml-1'>And I'm a
+                <h2 className='text-2xl font-semibold mt-2   ml-1'>And I'm a
                     <span className='h-max w-max text-2xl font-bold ml-2  bg-gradient-to-r from-blue-500 to-blue-400 bg-clip-text text-transparent'>Web Developer</span>
                 </h2>
 

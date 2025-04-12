@@ -116,8 +116,7 @@ const Projects = () => {
     return (
         <div
             id='Projects'
-            className='min-h-[100vh] w-screen pt-16 pl-5
-flex flex-col  '>
+            className='min-h-[100vh] w-screen pt-16 pl-5 flex flex-col '>
 
 
 
@@ -134,7 +133,7 @@ flex flex-col  '>
             {/* The container which contains the cards of product */}
             <div
                 ref={projectCard}
-                className="h-max w-full flex flexwrap gap-5 justify-center items-center">
+                className="h-max w-full flex flex-wrap gap-5 justify-center items-center">
 
 
                 {
