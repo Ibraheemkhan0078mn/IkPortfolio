@@ -25,14 +25,14 @@ const Projects = () => {
             projectName: "Ecommerce Webapp",
             projectDescription: "Ecommerce webapp with role base access (Owner, Seller, User) and responsive design. ",
             githubUrl: "https://github.com/Ibraheemkhan0078mn/ecommerce.git",
-            projectUrl: "https://lms-full.vercel.app/"
+            projectUrl: "https://e-commerce-seven-omega-71.vercel.app/"
         },
         {
             projectImg: LMS,
             projectName: "LMS Webapp",
             projectDescription: "Learning Management System webapp with role base access (Teacher, Student) and responsive design and features like courses, quiz test and certification etc",
             githubUrl: "https://github.com/Ibraheemkhan0078mn/LMSFull.git",
-            projectUrl: "https://ecommerce-nu-silk-53.vercel.app/"
+            projectUrl: "https://lms-full.vercel.app/"
         },
         {
             projectImg: chattingWebapp,
