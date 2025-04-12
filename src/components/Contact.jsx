@@ -487,7 +487,7 @@ const Contact = () => {
 
                         <button
                             type='submit'
-                            className='h-10 w-full relative  bg-blue-400 rounded-lg text-black font-semibold'
+                            className='h-10 w-full relative  bg-blue-400 rounded-lg text-black font-semibold cursor-pointer select-none'
                         >
                             Submit
                             {
